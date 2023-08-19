@@ -6,4 +6,5 @@ int factorial(int n){
 	return(n * factorial(n-1));
     }
     else return 1;
+    //modified with negative number support 
 }
